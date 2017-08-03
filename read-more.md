@@ -5,7 +5,7 @@ Este desarrollo se realizón con Ionic, y el team MINSA ya se encuentra trabajan
 
 MINSA lanzó AhorroMED, el aplicativo móvil para consulta de precios de medicamentos y ubicación de farmacias.
 - [Peru21 - AhorroMED te brinda información sobre los precios de medicamentos](http://peru21.pe/actualidad/ahoromed-app-que-te-brindara-informacion-medicamentos-boticas-y-farmacias-2290692)
-- [Diario Gesti[n - AhorroMED: Pacientes podrán buscar medicamentos y comparar precios desde app](http://gestion.pe/tecnologia/ahorromed-pacientes-podran-buscar-medicamentos-y-comparar-precios-desde-app-minsa-2195960)
+- [Diario Gestión - AhorroMED: Pacientes podrán buscar medicamentos y comparar precios desde app](http://gestion.pe/tecnologia/ahorromed-pacientes-podran-buscar-medicamentos-y-comparar-precios-desde-app-minsa-2195960)
 
 
 Más acerca de MINSA (Ministerio de Salud)

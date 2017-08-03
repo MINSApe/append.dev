@@ -53,3 +53,10 @@ Contacto
 
 - Para comunicación y/o CV documentado contactar a fcedillo@minsa.gob.pe / [fb messneger](http://m.me/franco.cedillo)
 
+
+.
+---
+
+
+[Más acerca del MINSA ...](./read-more.md)
+
