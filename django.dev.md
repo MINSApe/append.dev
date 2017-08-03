@@ -51,7 +51,7 @@ Beneficios
 Contacto
 --------
 
-- Para comunicación y/o CV documentado contactar a fcedillo@minsa.gob.pe / [fb messneger](http://m.me/franco.cedillo)
+- Para comunicación y/o CV documentado contactar a fcedillo@minsa.gob.pe / [fb messenger](http://m.me/franco.cedillo)
 
 
 .
