@@ -51,7 +51,7 @@ Beneficios
 Contacto
 --------
 
-- Para comunicación y/o CV documentado contactar a fcedillo@gmail.com / [fb messenger](http://m.me/franco.cedillo)
+- Para comunicación y/o CV documentado contactar a franco.cedillo@gmail.com / [fb messenger](http://m.me/franco.cedillo)
 
 
 .
