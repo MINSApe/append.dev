@@ -25,7 +25,7 @@ Challenge
  Debe contar con afinidad a sistemas y procesos de salud, de __impacto en la población__.
 
  Dentro de tus responsabilidades están comprendidas:
- - Desarrollo de interfaces e interacciones que se soportan sobre Django REST Framwwork
+ - Desarrollo de interfaces e interacciones que se soportan sobre Django REST Framework
  - Elaboración Documento de Especificación de Requerimientos
  - Validación de Pruebas Funcionales
  - Documentación técnica
