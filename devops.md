@@ -67,7 +67,7 @@ Contacto
 - Para comunicación y/o CV documentado contactar a franco.cedillo@gmail.com / [fb messenger](http://m.me/franco.cedillo)
 
 
-.
+EOF
 ---
 
 
