@@ -32,14 +32,18 @@ Requirements
  Los requerimientos técnicos del cargo son, experiencia en:
 
 - Experiencia mínima de 2 años como Sys Admin / Dev Ops
-- Despliegue con Docker para releases trabajados con Django, Odoo, Java
-- Integración Contínua: Unit Tests, Code Linting (docker/pipelines)
-- Monitoreo y Optimización de Application Servers (Nginx + Python/Django)
-- Monitoreo y Optimización de Data Base Servers (Posgres)
-- Continuous Delivery
-- Configuración Nginx
+- Conocimiento de Docker
+- Experiencia en despliegue de proyectos Python (Odoo y Django) y Java
+- Experiencia con sistemas de integración contínua (Jenkins, GitLab CI)
+- Conocimientos de Continuous Delivery
+- Instalación, Configuración y Monitoreo de Servidores Linux:
+  - Nginx
+  - GUnicorn
+  - Apache
+  - Postgres
+  - Tomcat
 - Conocimientos de Seguridad: HTTPs/SSL
-- Versionado de Código con GitLab
+- Versionado de Código con Git
 - Administración Linux
 
  Son deseables, conocimientos en:
