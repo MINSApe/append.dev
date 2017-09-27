@@ -19,11 +19,11 @@ Overview
 Challenge
 ---------
 
- Estamos en la búsqueda de un __Odoo Developer__, que posea experiencia probada Odoo y Python, 
+ Estamos en la búsqueda de un __Odoo Developer__, que posea experiencia probada Odoo y Python.
 
- Debe contar con afinidad a sistemas y procesos de salud, de __impacto en la población__, e interés por interacción con plataformas mobile Android y iOS.
+ Debe contar con afinidad a sistemas y procesos de salud, de __impacto en la población__, e interés por interacción con plataformas web.
 
- Dentro de tus responsabilidades están comprendidas el desarrollo de Back-end para APIs que serán consumidas por las Mobile Apps del MINSA, y sistemas web en diversas áreas de salud basados en Django.
+ Dentro de tus responsabilidades están comprendidas el desarrollo de funcionalidades mediante módulos en Odoo.
 
 
 Requirements
